@@ -1,0 +1,15 @@
+* {
+    margin: auto;
+}
+.App{
+    width: 50%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
